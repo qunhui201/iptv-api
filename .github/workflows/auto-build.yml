@@ -1,26 +1,27 @@
-name: Auto Fix EPG Accelerate
+name: EPG Accelerate
 
 on:
-  workflow_dispatch:       # 手动触发
+  workflow_dispatch:  # 手动触发
   schedule:
-    - cron: "0 * * * *"    # 每1小时执行一次
+    - cron: "0 * * * *"  # 每小时0分运行一次（UTC时间）
 
 jobs:
-  build:
+  accelerate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Accelerate EPG URL
+      - name: Set up Git user
         run: |
-          bash service/epg_accelerate.sh
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and Push
+      - name: Run EPG accelerate script
+        run: bash service/epg_accelerate.sh
+
+      - name: Commit and push changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add output/*.m3u output/*/*.m3u || true
-          git commit -m "Auto update (EPG accelerated)" || echo "No changes to commit"
-          git push
+          git add output/result.m3u output/ipv4/result.m3u output/ipv6/result.m3u
+          git diff --cached --quiet || git commit -m "EPG accelerated $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push origin master
