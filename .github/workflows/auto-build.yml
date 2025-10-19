@@ -1,36 +1,23 @@
-name: Auto Build IPTV Playlist
+name: Auto Fix EPG Accelerate
 
 on:
-  workflow_dispatch:       # ✅ 手动触发
+  workflow_dispatch:       # 手动触发
   schedule:
-    - cron: "0 * * * *"    # ✅ 每1小时执行一次（整点）
+    - cron: "0 * * * *"    # 每1小时执行一次
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-
-      - name: Run main generator
-        run: |
-          python main.py
-
-      - name: Accelerate EPG in M3U
+      - name: Accelerate EPG URL
         run: |
           bash service/epg_accelerate.sh
 
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
