@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-21 10:39:36,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-21 15:11:33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -272,10 +272,10 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 安徽卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873469.m3u8
 安徽卫视,http://z.b.bkpcp.top/m.php?id=ahws
 安徽卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8
+安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226498/index.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 安徽卫视,http://yc.myds.me:35455/itv/6000000001000009954.m3u8?cdn=wasusyt
 安徽卫视,http://nas.suntao.online:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
-安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227230/index.m3u8
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 重庆卫视,http://j.x.bkpcp.top/jx/CHONGQHD
@@ -595,6 +595,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227555/index.m3u8
 深圳卫视,http://yc.myds.me:35455/itv/5000000004000007410.m3u8?cdn=bestzb
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-5.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-1.ctv
 
 ☘️浙江频道,#genre#
@@ -795,6 +796,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 上海纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
 上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746292937&key=3725d08baa89daf1e05599a00bdac978
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-1.m3u8
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 东方影视,http://gat.bkpcp.top/ymg.php?id=shys
@@ -826,6 +828,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 第一财经,http://ls.qingting.fm/live/276.m3u8
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746393735&key=7b164ddded8a7d9ea3ba4a8d86999077
+第一财经,https://stream1.freetv.fun/di-yi-cai-jing-6.ctv
 第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=62e21890acbd9928d0be0b4eae9f5e32e1879604b785ee7ce8751d5001a9ff431d7714025aa03d48a2b190ff214e5115dcb6ba455c3d26b1db0f5b3cb49c5967429ff3b1fe8e96e87cc6146543
 
 ☘️重庆频道,#genre#
@@ -915,8 +918,10 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
 湖南教育,http://php.jdshipin.com:8880/iptv.php
 湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
+湖南娱乐,https://stream1.freetv.fun/hu-nan-yu-le-9.ctv
 湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 湖南国际,https://stream1.freetv.fun/hu-nan-guo-ji-4.ctv
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-5.ctv
 金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
@@ -1305,6 +1310,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江影视,https://stream1.freetv.fun/hei-long-jiang-ying-shi-1.m3u8
 黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
 黑龙江都市,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4025]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
@@ -1391,6 +1397,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 
 🎬电影频道,#genre#
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
@@ -1417,6 +1424,7 @@ CHC动作电影,http://eastscreen.tv/ooooo.php
 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘电影,http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
+淘电影,https://stream1.freetv.fun/tao-dian-ying-3.ctv
 NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
 NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073
@@ -1434,6 +1442,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 
