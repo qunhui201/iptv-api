@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-24 15:11:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-24 21:30:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -832,6 +832,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
+生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-9.ctv
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://ls.qingting.fm/live/276.m3u8
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
