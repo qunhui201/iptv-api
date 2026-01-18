@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260118130020 +0800">
+<tv date="20260118164617 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -21318,6 +21318,12 @@
 	<programme channel="NewTV动作电影" start="20260118195100 +0800" stop="20260118202600 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20260118202600 +0800" stop="20260118213400 +0800">
+		<title lang="zh">使命营救</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260118213400 +0800" stop="20260118221700 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -21377,6 +21383,9 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260118194600 +0800" stop="20260118202600 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260118202600 +0800" stop="20260118221100 +0800">
+		<title lang="zh">追凶十九年</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
