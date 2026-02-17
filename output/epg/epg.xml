@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260217090437 +0800">
+<tv date="20260217132356 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -20751,70 +20751,67 @@
 	<programme channel="西藏卫视" start="20260217004400 +0800" stop="20260217005400 +0800">
 		<title lang="zh">广告</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217005400 +0800" stop="20260217011500 +0800">
+	<programme channel="西藏卫视" start="20260217005400 +0800" stop="20260217012400 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217011500 +0800" stop="20260217013100 +0800">
+	<programme channel="西藏卫视" start="20260217012400 +0800" stop="20260217015700 +0800">
 		<title lang="zh">美丽西藏</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217013100 +0800" stop="20260217021600 +0800">
+	<programme channel="西藏卫视" start="20260217015700 +0800" stop="20260217023900 +0800">
 		<title lang="zh">黄雀11</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217021600 +0800" stop="20260217030800 +0800">
+	<programme channel="西藏卫视" start="20260217023900 +0800" stop="20260217031600 +0800">
 		<title lang="zh">黄雀12</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217030800 +0800" stop="20260217033800 +0800">
+	<programme channel="西藏卫视" start="20260217031600 +0800" stop="20260217034900 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217033800 +0800" stop="20260217035000 +0800">
-		<title lang="zh">读行西藏</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217035000 +0800" stop="20260217043800 +0800">
+	<programme channel="西藏卫视" start="20260217034900 +0800" stop="20260217043600 +0800">
 		<title lang="zh">前途无量22</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217043800 +0800" stop="20260217051100 +0800">
+	<programme channel="西藏卫视" start="20260217043600 +0800" stop="20260217052600 +0800">
 		<title lang="zh">前途无量23</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217051100 +0800" stop="20260217054200 +0800">
+	<programme channel="西藏卫视" start="20260217052600 +0800" stop="20260217053800 +0800">
 		<title lang="zh">跟我学藏语</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217054200 +0800" stop="20260217061400 +0800">
+	<programme channel="西藏卫视" start="20260217053800 +0800" stop="20260217061400 +0800">
 		<title lang="zh">美丽西藏</title>
 	</programme>
 	<programme channel="西藏卫视" start="20260217061400 +0800" stop="20260217070000 +0800">
 		<title lang="zh">战将5</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217070000 +0800" stop="20260217070300 +0800">
+	<programme channel="西藏卫视" start="20260217070000 +0800" stop="20260217070700 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217070300 +0800" stop="20260217074900 +0800">
+	<programme channel="西藏卫视" start="20260217070700 +0800" stop="20260217075300 +0800">
 		<title lang="zh">战将6</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217074900 +0800" stop="20260217081800 +0800">
+	<programme channel="西藏卫视" start="20260217075300 +0800" stop="20260217081800 +0800">
 		<title lang="zh">航海少年团</title>
 	</programme>
 	<programme channel="西藏卫视" start="20260217081800 +0800" stop="20260217083000 +0800">
 		<title lang="zh">跟我学藏语</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217083000 +0800" stop="20260217090500 +0800">
+	<programme channel="西藏卫视" start="20260217083000 +0800" stop="20260217090200 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217090500 +0800" stop="20260217095300 +0800">
+	<programme channel="西藏卫视" start="20260217090200 +0800" stop="20260217095100 +0800">
 		<title lang="zh">南来北往6</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217095300 +0800" stop="20260217112500 +0800">
+	<programme channel="西藏卫视" start="20260217095100 +0800" stop="20260217112300 +0800">
 		<title lang="zh">欢笑2026</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217112500 +0800" stop="20260217121100 +0800">
+	<programme channel="西藏卫视" start="20260217112300 +0800" stop="20260217121000 +0800">
 		<title lang="zh">南来北往7</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217121100 +0800" stop="20260217130000 +0800">
+	<programme channel="西藏卫视" start="20260217121000 +0800" stop="20260217130000 +0800">
 		<title lang="zh">南来北往8</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217130000 +0800" stop="20260217131700 +0800">
+	<programme channel="西藏卫视" start="20260217130000 +0800" stop="20260217131800 +0800">
 		<title lang="zh">午间新闻</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217131700 +0800" stop="20260217140800 +0800">
+	<programme channel="西藏卫视" start="20260217131800 +0800" stop="20260217140800 +0800">
 		<title lang="zh">共同家园3</title>
 	</programme>
 	<programme channel="西藏卫视" start="20260217140800 +0800" stop="20260217150000 +0800">
@@ -27969,6 +27966,54 @@
 	<channel id="上海教育">
 		<display-name lang="zh">上海教育</display-name>
 	</channel>
+	<programme channel="上海教育" start="20260217000000 +0800" stop="20260217070000 +0800">
+		<title lang="zh">请您欣赏</title>
+	</programme>
+	<programme channel="上海教育" start="20260217070000 +0800" stop="20260217071000 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="上海教育" start="20260217071000 +0800" stop="20260217073500 +0800">
+		<title lang="zh">市民大学堂</title>
+	</programme>
+	<programme channel="上海教育" start="20260217073500 +0800" stop="20260217075500 +0800">
+		<title lang="zh">今日房产</title>
+	</programme>
+	<programme channel="上海教育" start="20260217075500 +0800" stop="20260217085000 +0800">
+		<title lang="zh">成长不烦恼</title>
+	</programme>
+	<programme channel="上海教育" start="20260217085000 +0800" stop="20260217092000 +0800">
+		<title lang="zh">市民大学堂</title>
+	</programme>
+	<programme channel="上海教育" start="20260217092000 +0800" stop="20260217101000 +0800">
+		<title lang="zh">老年居家护理</title>
+	</programme>
+	<programme channel="上海教育" start="20260217101000 +0800" stop="20260217104500 +0800">
+		<title lang="zh">常青树</title>
+	</programme>
+	<programme channel="上海教育" start="20260217104500 +0800" stop="20260217112500 +0800">
+		<title lang="zh">档案</title>
+	</programme>
+	<programme channel="上海教育" start="20260217112500 +0800" stop="20260217125500 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="上海教育" start="20260217125500 +0800" stop="20260217141500 +0800">
+		<title lang="zh">剧场(重播)</title>
+	</programme>
+	<programme channel="上海教育" start="20260217141500 +0800" stop="20260217153500 +0800">
+		<title lang="zh">光影</title>
+	</programme>
+	<programme channel="上海教育" start="20260217153500 +0800" stop="20260217185000 +0800">
+		<title lang="zh">讲武堂</title>
+	</programme>
+	<programme channel="上海教育" start="20260217185000 +0800" stop="20260217211500 +0800">
+		<title lang="zh">教育新闻</title>
+	</programme>
+	<programme channel="上海教育" start="20260217211500 +0800" stop="20260217235000 +0800">
+		<title lang="zh">助跑80后</title>
+	</programme>
+	<programme channel="上海教育" start="20260217235000 +0800" stop="20260217235959 +0800">
+		<title lang="zh">光影</title>
+	</programme>
 	<channel id="苏州社会经济">
 		<display-name lang="zh">苏州社会经济</display-name>
 	</channel>
@@ -28395,6 +28440,66 @@
 	<channel id="内蒙古文体娱乐">
 		<display-name lang="zh">内蒙古文体娱乐</display-name>
 	</channel>
+	<programme channel="内蒙古文体娱乐" start="20260217000100 +0800" stop="20260217055500 +0800">
+		<title lang="zh">律动剧场</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217055500 +0800" stop="20260217063100 +0800">
+		<title lang="zh">逗你乐翻天</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217063100 +0800" stop="20260217071000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217071000 +0800" stop="20260217074000 +0800">
+		<title lang="zh">世界多美丽</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217074000 +0800" stop="20260217083000 +0800">
+		<title lang="zh">逗你乐翻天</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217083000 +0800" stop="20260217114000 +0800">
+		<title lang="zh">文苑剧场</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217114000 +0800" stop="20260217123000 +0800">
+		<title lang="zh">君子好球</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217123000 +0800" stop="20260217131000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217131000 +0800" stop="20260217145000 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217145000 +0800" stop="20260217163000 +0800">
+		<title lang="zh">我是大A王</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217163000 +0800" stop="20260217180000 +0800">
+		<title lang="zh">昆仑决</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217180000 +0800" stop="20260217190000 +0800">
+		<title lang="zh">我要斗地主</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217190000 +0800" stop="20260217191000 +0800">
+		<title lang="zh">草原音画</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217191000 +0800" stop="20260217200000 +0800">
+		<title lang="zh">我是大A王</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217200000 +0800" stop="20260217210000 +0800">
+		<title lang="zh">心肝宝贝</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217210000 +0800" stop="20260217213000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217213000 +0800" stop="20260217221500 +0800">
+		<title lang="zh">逗你乐翻天</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217221500 +0800" stop="20260217225000 +0800">
+		<title lang="zh">君子好球</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217225000 +0800" stop="20260217233000 +0800">
+		<title lang="zh">我要斗地主</title>
+	</programme>
+	<programme channel="内蒙古文体娱乐" start="20260217233000 +0800" stop="20260217235959 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
 	<channel id="青海综合">
 		<display-name lang="zh">青海综合</display-name>
 	</channel>
