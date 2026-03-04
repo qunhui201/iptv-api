@@ -3,7 +3,7 @@
 
 https://raw.githubusercontent.com/linyu345/2026/refs/heads/main/py/Hotel/hotel.txt
 https://raw.githubusercontent.com/qunhui201/TVlogo/refs/heads/main/output.m3u
-https://raw.githubusercontent.com/kenye201/python/refs/heads/main/test/hotel_all.m3u
+https://raw.githubusercontent.com/kenye201/TVlog/refs/heads/main/final_hotel.m3u
 
 
 
